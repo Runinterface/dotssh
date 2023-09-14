@@ -56,7 +56,7 @@ IdentityFile ~/.ssh/run
 Host scum_vpn
 HostName 65.108.186.74
 User root
-IdentityFile ~/.ssh/run
+IdentityFile ~/.ssh/sspkd
 
 Host mstorage
 HostName 192.168.1.61
