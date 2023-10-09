@@ -841,3 +841,26 @@ Port 24723
 User artem.myasnikov
 IdentityFile ~/.ssh/artem.myasnikov
 
+Host htz-wg-usa-w-1
+HostName 46.4.121.232
+Port 24633
+User artem.myasnikov
+IdentityFile ~/.ssh/artem.myasnikov
+
+Host htz-wg-usa-w-2
+HostName 136.243.147.184
+Port 24623
+User artem.myasnikov
+IdentityFile ~/.ssh/artem.myasnikov
+
+Host htz-wg-usa-db-1
+HostName 138.201.21.207
+Port 24723
+User artem.myasnikov
+IdentityFile ~/.ssh/artem.myasnikov
+
+Host htz-wg-usa-db-2
+HostName 5.9.31.75
+Port 24733
+User artem.myasnikov
+IdentityFile ~/.ssh/artem.myasnikov
