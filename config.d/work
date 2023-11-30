@@ -364,7 +364,7 @@ IdentityFile ~/.ssh/artem.myasnikov
 Host bgaming-htz-monitoring-fsn-1-dummy-for-iptables
 HostName 49.12.67.62
 Port 22
-User artem.myasnikov
+User root
 IdentityFile ~/.ssh/artem.myasnikov
 
 Host htz-bg-elk-master-stg-1
