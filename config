@@ -25,6 +25,6 @@ IdentityFile ~/.ssh/run
 Host m_vpn
 HostName 109.207.173.124
 User root
-IdentityFile ~/.ssh/sspkd
+IdentityFile ~/.ssh/run
 
 
