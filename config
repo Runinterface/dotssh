@@ -1,5 +1,11 @@
 include config.d/* 
 
+Host mm
+HostName 167.235.248.38
+Port 22
+User root
+IdentityFile ~/.ssh/hetzner
+
 # Personal
 Host steamdeck
 HostName 192.168.1.86
@@ -16,8 +22,8 @@ HostName github.com
 User runinterface
 IdentityFile ~/.ssh/run
 
-Host scum_vpn
-HostName 65.108.186.74
+Host m_vpm
+HostName 109.207.173.124
 User root
 IdentityFile ~/.ssh/sspkd
 
